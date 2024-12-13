@@ -1,3 +1,11 @@
+[추가 참고자료]
+
+https://velog.io/@cksgodl/MVVM%EA%B5%AC%EC%A1%B0%EC%99%80-ViewModel%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-RoomDB-%ED%99%9C%EC%9A%A9-%EB%B2%95
+
+https://medium.com/@anumshafiq89/android-room-database-mvvm-implementation-using-kotlin-for-beginners-e90524f536ee
+
+-------------------------------------------------------------------------------------------
+
 # [Model-View-ViewModel (ie MVVM)](https://github.com/ahmedeltaher/Android-MVVM-architecture)
 
 
